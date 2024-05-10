@@ -1,0 +1,179 @@
+{
+    "items": {
+        {
+            "category":"Desayunos",
+            "items":[
+                {
+                    "name":"Croissant",
+                    "descripcion":"Fue creada en París en el siglo XIX donde los panaderos locales se inspiraron de la forma del kifli austriaco popularizado por el panadero vienés August Zang, pero usaron una masa hojaldrada fermentada típicamente francesa que se usa también para hacer otras preparaciones como la napolitana.",
+                    "price":"$70",
+                    "image":"img/desayuno 1.jpg"
+                },
+                {
+                    "name":"Hot cakes con tocino",
+                    "descripcion":"La mayoría de los historiadores gastronómicos coinciden en que el origen de los pancakes se remonta a un platillo inventado por los romanos conocido como Alita Dolcia, elaborado a base de leche, harina, huevo, especias y untado con miel, este platillo que se vendía afuera de las plazas romanas",
+                    "price":"$100.00",
+                    "image":"img/desayuno 2.webp"
+                },
+                {
+                    "name":"tostada",
+                    "descripcion":"Desde tiempos antiguos, en la época de los romanos, y prácticamente desde el surgimiento del pan, se empezó a sostenerlo sobre las llamas buscando prolongar su vida útil. Así, palos, espadas y otras herramientas eran utilizadas y fueron mejorándose para tostar el pan.",
+                    "price":"$60",
+                    "image":"img/desayuno 3.jpg"
+                },
+                {
+                    "name":"yogurt",
+                    "descripcion":"Se presume que el yogurt se originó hace más de 4000 años, en la actual Turquía, ubicada en Medio Oriente. La palabra Yogur, viene del turco yoğurt (yoghhurt) que proviene de yoğurmak que significa amasar, puesto que se amasaba el producto semisólido durante la elaboración.",
+                    "price":"$50.00",
+                    "image":"img/desayuno 4.jpg"
+                },
+                {
+                    "name":"Waffles con fruta",
+                    "descripcion":"El waffle tiene su origen en Europa, específicamente en Bélgica, donde se popularizó a partir del siglo XII. La palabra waffle proviene del término francés "walfre", que significa panal de abejas, ya que los primeros waffles se parecían a este tipo de panal.",
+                    "price":"$60.00",
+                    "image":"img/desayuno 5.jpg"
+                },
+            ]
+        },
+        {
+            "category":"Almuerzos",
+            "items":[
+                {
+                    "name":"Spaghetti",
+                    "descripcion":"Aunque la forma de los espaguetis se originó en China y el proceso de fabricación fue parcialmente asumido por la cocina árabe, en cualquier caso es a Italia a quien le corresponde el mérito de haber inventado esta pasta seca.",
+                    "price":"$90.00",
+                    "image":"img/almerzo 1.webp"
+                },
+                {
+                    "name":"Omelette",
+                    "descripcion":"El omelette es una creación francesa y es uno de los platillos con más historia. La primera receta que existe publicada está en De re Coquinaria, el libro de cocina más antiguo de Europa, escrito por Marco Gavio Apicio en la época de Cristo aproximadamente.",
+                    "price":"$60.00",
+                    "image":"img/almuerzo 2.webp"
+                },
+                {
+                    "name":"Migada",
+                    "descripcion":"Gordita de masa de maíz, dorada en comal con un poco de manteca de cerdo, acompañada de salsa ranchera. Se preparan y consumen en Tamaulipas.",
+                    "price":"$80.00",
+                    "image":"img/almuerzo 3.avif"
+                },
+                {
+                    "name":"Sandwich",
+                    "descripcion":"Hay varias fuentes bibliográficas que señalan su origen en la Inglaterra del siglo XVIII cuando John Montagu, conde de Sandwich y jugador empedernido, pidió que le sirvieran unas rodajas de roast beef entre dos rebanadas de pan. Así podría comer sin interrumpir la partida y tener una cena rápida.",
+                    "price":"$35.00",
+                    "image":"img/almuerzo 4.jpg"
+                },
+                {
+                    "name":"Huevo estrellado",
+                    "descripcion":"Pionero por incluir este plato en su menú desde 1975, Lucio, que llegó a Madrid procedente de Serranillos, un pueblo de Ávila, comenta que este plato lo «inventó» su abuela, cada vez que se le caía un huevo al suelo lo recogía y para aprovecharlo lo rompía encima de las patatas.",
+                    "price":"$70.00",
+                    "image":"img/almuerzo 5.jpg"
+                },
+            ]
+        },
+        {
+            "category":"Comidas",
+            "items":[
+                {
+                    "name":"Milanesa",
+                    "descripcion":"El origen de la milanesa o milanga tiene muchas versiones. La más aceptada dice que viene de la ciudad italiana de Milán, en donde se la conoce como cotoletta. Cuentan que en el año 1134, cuando Milán era parte del imperio austro-húngaro, un cocinero italiano presentó en la Corte ese plato por primera vez",
+                    "price":"$150.00",
+                    "image":"img/comida 1.webp"
+                },
+                {
+                    "name":"Hamburguesa",
+                    "descripcion":"Se cree que su procedencia es alemana, de Hamburgo, donde los trabajadores comían carne picada sobre pan tostado. De ahí embarcó a EEUU de mano de inmigrantes alemanes, donde se hizo muy popular extendiéndose por todo el país.",
+                    "price":"$170.00",
+                    "image":"img/comida 2.png"
+                },
+                {
+                    "name":"Arroz",
+                    "descripcion":"El cultivo del arroz, Oryza sativa L., comenzó hace casi 10.000 años, en muchas regiones húmedas de Asia tropical y subtropical. Este cultivo es el alimento básico para más de la mitad de la población mundial. A nivel mundial, ocupa el segundo lugar después del trigo con respecto a superficie cosechada.",
+                    "price":"$100.00",
+                    "image":"img/comida 3.jpg"
+                },
+                {
+                    "name":"Lasagna",
+                    "descripcion":"La lasagna es un plato popular con origen, como todos saben, en Italia. Se prepara normalmente con carne entre capas de láminas de pasta que se cubren con bechamel y queso gratinado, para después hornearla.",
+                    "price":"$150.00",
+                    "image":"img/comida 4.webp"
+                },
+                {
+                    "name":"Pollo Frito",
+                    "descripcion":"La preparación típica del sur de Estados Unidos tiene su origen en el choque cultural producido en esa región entre los inmigrantes escoceses y los esclavos africanos. Ambas tierras de origen tenían la costumbre de freír el pollo, aunque los primeros lo hacían en manteca y los segundos en aceite de palma.",
+                    "price":"$170.00",
+                    "image":"img/comida 5.webp"
+                },
+            ]
+        },
+        {
+            "category":"Postres",
+            "items":[
+                {
+                    "name":"Pay de leche",
+                    "descripcion":"El pay de leche es un postre tradicional que ha dejado huella en la gastronomía española. Su sabor dulce y textura suave lo convierten en un favorito entre los amantes de los postres. Con su origen histórico y sus diversas variantes, el pay de leche ha sabido adaptarse a diferentes gustos y preferencias. Ya sea que lo disfrutes en una festividad especial o simplemente como un capricho ocasional, este delicioso postre seguirá siendo parte esencial de la cultura culinaria española. No dudes en probar esta receta y experimentar con tus propias variaciones. ¡Buen provecho!",
+                    "price":"$90.00",
+                    "image":"img/postre 1.jpg"
+                },
+                {
+                    "name":"Flan",
+                    "descripcion":"El flan (del francés flan)​es un postre de origen frances​ elaborado con una natilla teniendo como ingredientes principales huevos enteros, leche y azúcar que luego es refrigerado para obtener una textura cremosa y gelatinosa.",
+                    "price":"$90.00",
+                    "image":"img/postre 2.webp"
+                },
+                {
+                    "name":"Pay de limon",
+                    "descripcion":"Se cree que la tarta de lemon pie se preparó por primera vez en Inglaterra, bajo la mano de los protestantes del siglo XVIII. Luego de eso está logro llegar a América del Norte gracias a una secta separatista cuáquera, acción que tuvo lugar en el año de 1774.",
+                    "price":"$90.00",
+                    "image":"img/postre 3.jpg"
+                },
+                {
+                    "name":"Fresas con crema",
+                    "descripcion":"De acuerdo con la historia, desde la primera edición de Wimbledon, en 1877, las fresas con crema han formado parte del campeonato, pues desde entonces se degustaban en los jardines exteriores y en las fiestas, pues simbolizan la llegada del verano, pues además dicha fruta brota en esa época del año.",
+                    "price":"$90.00",
+                    "image":"img/postre 4.jpg"
+                },
+                {
+                    "name":"Helado",
+                    "descripcion":"Según los libros de historia se tiene constancia de que el origen del helado data de hace al menos 3.000 años y que fue inventado en Oriente. Fueron los chinos los que preparaban una especia de pasta de leche de arroz mezclada con nieve para su mejor conservación, como el origen del helado más primitivo.",
+                    "price":"$90.00",
+                    "image":"img/postre 5.jpg"
+                }
+            ]
+        },
+        {
+            "category":"Bebidas",
+            "items":[
+                {
+                    "name":"Agua de Limon",
+                    "descripcion":"El agua de limón mejor conocida como limonada, proviene del Antiguo Egipto, algunos papiros que datan del siglo X, dan cuenta de una bebida que se comercializaba preparada a base de jugo limón, agua y azúcar.",
+                    "price":"$50.00",
+                    "image":"img/bebida 1.webp"
+                },
+                {
+                    "name":"Agua de fresa",
+                    "descripcion":"fuentes aseguran que en 1857 su inventor, Pete Conklin, utilizó el agua de un barreño que tenía dentro su leotardo rojo de equitación el cual había despintado un cierto color rosa y fue esa agua la que utilizó para preparar su limonada.",
+                    "price":"$50.00",
+                    "image":"img/bebida 2.jpg"
+                },
+                {
+                    "name":"Agua",
+                    "descripcion":"El primer sistema de suministro de agua potable a una ciudad completa fue construido en Paisley, Escocia, alrededor del año 1804 por John Gibb. En tres años se comenzó a transportar agua filtrada a la ciudad de Glasgow. En 1806 Paris empieza a funcionar la mayor planta de tratamiento de agua.",
+                    "price":"$20.00",
+                    "image":"img/bebidas 3.webp"
+                },
+                {
+                    "name":"Malteda",
+                    "descripcion":"La malteada fue inventada en 1897 por Guillermo Horlick, donde contenía principalmente leche en polvo, crema batida y harina de trigo. Esta bebida fue diseñada como medicamento para niños.",
+                    "price":"$60.00",
+                    "image":"img/bebida 4.jpg"
+                },
+                {
+                    "name":"Coca cola",
+                    "descripcion":"En 1886, el farmacéutico John Pemberton estaba buscando una cura para el dolor de cabeza, después de experimentar con varios ingredientes, finalmente creó una bebida carbonatada que contenía extractos de hojas de coca y nueces de cola. El nombre de la bebida, Coca-Cola, se derivó de estos dos ingredientes.",
+                    "price":"$55.00",
+                    "image":"img/bebida 5.jpg"
+                },
+            ]
+        },
+    }
+    }
